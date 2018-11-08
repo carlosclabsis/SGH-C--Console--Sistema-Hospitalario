@@ -19,6 +19,7 @@ namespace SGH
                 Console.WriteLine($"{ item.Dni},{item.Nombre},{item.Apellido}");
             }
             Console.ReadLine();
+            Console.WriteLine("Cambio realizado por tu wilson tu cachero");
         }
     }
 }
