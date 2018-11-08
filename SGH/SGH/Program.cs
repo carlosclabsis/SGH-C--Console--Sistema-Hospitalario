@@ -13,8 +13,11 @@ namespace SGH
             foreach (var item in Pacientes)
             {
                 Console.WriteLine($"{ item.Dni},{item.Nombre},{item.Apellido}");
+                Console.WriteLine($"{ item.Dni},{item.Nombre},{item.Apellido}");
+                Console.ReadLine();
             }
             Console.ReadLine();
+            Console.WriteLine("Cambio realizado por tu wilson tu cachero");
         }
     }
 }

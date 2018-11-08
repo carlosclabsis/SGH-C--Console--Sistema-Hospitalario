@@ -16,3 +16,21 @@ G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\SGH\bin\Debug\netcoreapp2.1\BussinessLayer
 G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\SGH\bin\Debug\netcoreapp2.1\Entities.pdb
 G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\SGH\bin\Debug\netcoreapp2.1\DataAccess.pdb
 G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\SGH\obj\Debug\netcoreapp2.1\SGH.csproj.CopyComplete
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\SGH.deps.json
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\SGH.runtimeconfig.json
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\SGH.runtimeconfig.dev.json
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\SGH.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\SGH.pdb
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\obj\Debug\netcoreapp2.1\SGH.csprojAssemblyReference.cache
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\obj\Debug\netcoreapp2.1\SGH.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\obj\Debug\netcoreapp2.1\SGH.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\obj\Debug\netcoreapp2.1\SGH.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\obj\Debug\netcoreapp2.1\SGH.csproj.CopyComplete
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\obj\Debug\netcoreapp2.1\SGH.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\SGH\obj\Debug\netcoreapp2.1\SGH.pdb

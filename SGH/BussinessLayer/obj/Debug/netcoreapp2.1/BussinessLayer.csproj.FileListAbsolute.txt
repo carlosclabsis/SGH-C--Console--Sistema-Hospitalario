@@ -12,3 +12,17 @@ G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\Ent
 G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\DataAccess.pdb
 G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\Entities.pdb
 G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CopyComplete
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.deps.json
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CopyComplete
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.pdb
