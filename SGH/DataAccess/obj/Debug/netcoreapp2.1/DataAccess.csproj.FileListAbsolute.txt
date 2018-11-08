@@ -1,0 +1,9 @@
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb

@@ -1,0 +1,14 @@
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.deps.json
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csprojAssemblyReference.cache
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CoreCompileInputs.cache
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfoInputs.cache
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfo.cs
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.dll
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.pdb
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\DataAccess.dll
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\Entities.dll
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\DataAccess.pdb
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\bin\Debug\netcoreapp2.1\Entities.pdb
+G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CopyComplete
