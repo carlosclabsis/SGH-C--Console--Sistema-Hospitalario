@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\CODIGO TECSUP\\REPOSITORIOS C#\\SGH-C--Console--Sistema-Hospitalario\\SGH\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\Entities\\Entities.csproj",
+      "projectPath": "D:\\CODIGO TECSUP\\REPOSITORIOS C#\\SGH-C--Console--Sistema-Hospitalario\\SGH\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\CARLOS\\.nuget\\packages\\",
-      "outputPath": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\Entities\\obj\\",
+      "outputPath": "D:\\CODIGO TECSUP\\REPOSITORIOS C#\\SGH-C--Console--Sistema-Hospitalario\\SGH\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
