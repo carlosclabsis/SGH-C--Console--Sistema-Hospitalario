@@ -713,23 +713,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CARLOS\\.nuget\\packages\\": {},
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\BussinessLayer\\BussinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\BussinessLayer\\BussinessLayer.csproj",
       "projectName": "BussinessLayer",
-      "projectPath": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\BussinessLayer\\BussinessLayer.csproj",
-      "packagesPath": "C:\\Users\\CARLOS\\.nuget\\packages\\",
-      "outputPath": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\BussinessLayer\\obj\\",
+      "projectPath": "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\BussinessLayer\\BussinessLayer.csproj",
+      "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\BussinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\CARLOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -742,11 +742,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\DataAccess\\DataAccess.csproj"
             },
-            "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\Entities\\Entities.csproj": {
-              "projectPath": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\Entities\\Entities.csproj"
+            "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\Entities\\Entities.csproj"
             }
           }
         }

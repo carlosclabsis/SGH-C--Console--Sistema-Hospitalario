@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CARLOS\\.nuget\\packages\\": {},
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\CARLOS\\.nuget\\packages\\",
-      "outputPath": "G:\\TECSUP\\BACK-END\\SEMANA 5\\Dia 3\\SGH\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TOSHIBA\\Documents\\pixel-perfect-design-resources-master\\SGH-C--Console--Sistema-Hospitalario\\SGH\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\CARLOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
