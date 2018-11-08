@@ -7,3 +7,12 @@ G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAcc
 G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
 G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
 G:\TECSUP\BACK-END\SEMANA 5\Dia 3\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Tecsup\Documents\SGH-C--Console--Sistema-Hospitalario\SGH\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
